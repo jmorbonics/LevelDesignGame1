@@ -3,6 +3,13 @@
 	"EngineAssociation": "5.7",
 	"Category": "",
 	"Description": "Unreal Learning Kit: Game Design, Robotics, and Block Based Game",
+	"Modules": [
+		{
+			"Name": "MP2LevelDesign",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "Bridge",
